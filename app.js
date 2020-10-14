@@ -47,7 +47,7 @@ app.use(favicon(path.join(__dirname, 'public', 'images', 'favicon.ico')));
 
 
 // default value for title local
-app.locals.title = 'Manish and Jorges project';
+app.locals.title = 'Irongenerator with Jorge';
 
 
 
